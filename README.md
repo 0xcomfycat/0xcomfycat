@@ -19,25 +19,42 @@ I'm a software engineer and solo quant. Lose money in crypto for fun since 2021.
 
 ---
 
-### My Work
+## My Work
 
-#### Solidity Smart Contracts
+### Solidity Smart Contract development
 
 Contributed by me but under different username
 
+#### Desk Exchange
+
+Contributed as @weizhuzhu888
+
 - [Desk Exchange](https://github.com/TradeOnDESK/desk-contract)
+
+#### Alpaca Finance
+
+Contributed as @69alpacas
+
 - [Alpaca v2 Money Market](https://github.com/alpaca-finance/alpaca-v2-money-market)
 - [Alpaca v2 Automated Vault](https://github.com/alpaca-finance/alpaca-v2-automated-vault)
 
 ---
 
-### Open Source Contributions
+## Writings
+
+[My Substack](https://comfycat.substack.com/)
+
+---
+
+## Open Source Contributions
 
 - [foundry-rs/foundry#10332](https://github.com/foundry-rs/foundry/pull/10332)
 - [foundry-rs/foundry#10336](https://github.com/foundry-rs/foundry/pull/10336)
 
 ---
 
-### Smart Contract Security
+## Smart Contract Security
 
 Participant in Code4rena audit contests under the handle [0xComfyCat](https://code4rena.com/@0xComfyCat)
+
+**Findings**: 11 highs, 7 mediums (1 solo)
